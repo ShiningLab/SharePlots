@@ -12,6 +12,6 @@ SharePlots is a collaborative space dedicated to sharing high-quality plots and 
 + Line chart
     + Line charts with variances
     + Grouped Line charts with variances
-    + 
+      
 ## Authors
 * **Ning Shi** - mrshininnnnn@gmail.com
