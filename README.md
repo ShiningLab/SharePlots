@@ -7,11 +7,13 @@ SharePlots is a collaborative space dedicated to sharing high-quality plots and 
 + matplotlib >= 3.7.2
 
 ## Figures
-+ Bar chart
++ Bar Charts
     + Grouped bar charts with labels
-+ Line chart
++ Line Charts
     + Line charts with variances
     + Grouped Line charts with variances
++ Radar Charts
+    + Radar chart with labels
       
 ## Authors
 * **Ning Shi** - mrshininnnnn@gmail.com
