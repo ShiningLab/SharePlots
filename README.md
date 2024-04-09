@@ -8,10 +8,13 @@ SharePlots is a collaborative space dedicated to sharing high-quality plots and 
 
 ## Figures
 + Bar Charts
-    + Grouped bar charts with labels
+    + Single grouped bar chart
+    + Multiple grouped bar chart
 + Line Charts
-    + Line charts with variances
-    + Grouped Line charts with variances
+    + Line chart
+    + Line chart with variances
+    + Grouped line chart with variances
+    + Dual axis line chart
 + Radar Charts
     + Radar chart with labels
       
