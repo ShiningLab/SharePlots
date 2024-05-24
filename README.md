@@ -10,6 +10,7 @@ SharePlots is a collaborative space dedicated to sharing high-quality plots and 
 + Bar Charts
     + Single grouped bar chart
     + Multiple grouped bar chart
+    + Multiple grouped bar chart without overlap
 + Line Charts
     + Line chart
     + Line chart with variances
